@@ -92,6 +92,7 @@ nav a:last-child{
 }
 .pledge-price{
     font-size: 25px;
+	color:black;
 }
 .monitor-card-text p{
     color: var(--Dark_gray);
