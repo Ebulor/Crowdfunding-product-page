@@ -90,9 +90,8 @@ nav a:last-child{
     position: absolute;
     top: -10%;
 }
-.pledge-price{
+.monitor-card-text h3{
     font-size: 25px;
-	color:black;
 }
 .monitor-card-text p{
     color: var(--Dark_gray);
@@ -198,12 +197,12 @@ nav a:last-child{
     border-radius: 10px;
     margin: 20px 0;
 }
-.pledge-price{
+.reward-card h3{
     display: flex;
     flex-direction: column;    
     font-size: 16px;
 }
-.pledge-price span{
+.reward-card h3 span{
     color: var(--Moderate_cyan);
     font-size: 15px;
     font-weight: 500;
@@ -533,12 +532,12 @@ hr{
         width: 700px;
         padding: 40px;
     }
-    .pledge-price {
+    .reward-card h3{
         flex-direction: row; 
         align-items: center;  
         justify-content: space-between;     
     }
-    .pledge-price span{
+    .reward-card h3 span{
         margin: 0;
     }
     .reward-left{
@@ -575,4 +574,3 @@ hr{
         width: 500px;
     }
 }
-
