@@ -204,6 +204,8 @@ nav a:last-child{
     display: flex;
     flex-direction: column;    
     font-size: 16px;
+    font-weight:700;
+    color:black;
 }
 .reward-card .pledge-price span{
     color: var(--Moderate_cyan);
