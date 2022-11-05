@@ -532,12 +532,12 @@ hr{
         width: 700px;
         padding: 40px;
     }
-    .reward-card h3{
+    .pledge-price {
         flex-direction: row; 
         align-items: center;  
         justify-content: space-between;     
     }
-    .reward-card h3 span{
+    .pledge-price span{
         margin: 0;
     }
     .reward-left{
