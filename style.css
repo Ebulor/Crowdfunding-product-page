@@ -97,8 +97,8 @@ nav a:last-child{
 }
 .monitor-card-text .pledge-price{
     font-size: 25px;
-	font-weight:700;
-	color:black;
+    font-weight:700;
+    color:black;
 }
 .monitor-card-button{
     display: flex;
