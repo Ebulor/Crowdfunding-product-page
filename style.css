@@ -90,12 +90,15 @@ nav a:last-child{
     position: absolute;
     top: -10%;
 }
-.monitor-card-text .pledge-price{
-    font-size: 25px;
-}
+
 .monitor-card-text p{
     color: var(--Dark_gray);
     margin: 20px 0;
+}
+.monitor-card-text .pledge-price{
+    font-size: 25px;
+	font-weight:700;
+	color:black;
 }
 .monitor-card-button{
     display: flex;
